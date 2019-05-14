@@ -1,0 +1,50 @@
+#+LATEX_HEADER: \usepackage{ctex}
+
+
+      *HKUST 招生宣讲会 at DLUT*
+
+*** MSC
+
+taught master of Science (Non-research based)
+
+1. to train enginerrs for ...
+2. course work - based
+3. independent project for who want surpervisse research
+4. 1 to 2 years intensive study (most within 1 year)
+
+*** Mphil & PhD
+
+1. train researchers for ...
+2. research based
+3. 2 years for Mphil & 4 years for PhD
+
+*** Why Choose HKUST
+
+1. Guangdong - HK - Macao Bay area
+2. a portal to your future
+
+
+*** HKUST Rankings
+
+Youth Univ.: 1st 
+QS: 37th
+Computer Science: 26th world
+
+*** Choice for who major in CS
+
+1. MSc in Big Data Technology (joined offered by /CSE/ & /MATH/)
+2. Msc in Information Technology
+3. MSc in Financial Technology (new Programs, joined offered by School of Engineering, School of Business & Management and School of Science)
+
+*** Admission Requirement
+
+1. bachelor degree (minimal GPA: 70...Don't use it as a reference.) 
+2. Toefl or IELTS (Toefl: 80)
+
+*** Venue
+
+The HKUST, Clear Water Bay, Kowloon, HK
+
+
+
+
